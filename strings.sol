@@ -1,1 +1,1 @@
-./src/strings.sol
+./contracts/strings.sol
